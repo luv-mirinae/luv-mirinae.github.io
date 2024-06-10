@@ -6,3 +6,9 @@ url: https://luv-mirinae.github.io
 
 aux_links:
   Repository: https://github.com/luv-mirinae/luv-mirinae.github.io
+
+nav_external_links:
+  - title: GitHub
+    url: https://github.com/luv-mirinae
+    hide_icon: false
+    opens_in_new_tab: false
